@@ -1,0 +1,10 @@
+File type: numpy arrays
+
+Dim 1: Trials
+Dim 2: Features
+
+Feature 0 - trial type
+Feature 1 - Choice (0 = left, 1 = right)
+Feature 2 - Reward (-1 = no reward, 1 = reward)
+Features 3:203 - Centroids
+Features 203:303 - Orientations
